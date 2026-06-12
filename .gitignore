@@ -1,0 +1,18 @@
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# Local environment files
+.env
+.env.*
+
+# Typecho/runtime generated uploads for timeline
+timeline-images/
+
