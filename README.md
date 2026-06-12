@@ -492,12 +492,6 @@ cover
 - 不建议直接删除 `common`、`assets`、`gallery` 等目录。
 - 如果需要排查 PHP 语法，可使用 PHP 命令检查文件。
 
-示例：
-
-```powershell
-D:\phpstudy_pro\Extensions\php\php8.2.9nts\php.exe -l usr/themes/DreamStory/functions.php
-```
-
 ## 目录速览
 
 ```text
